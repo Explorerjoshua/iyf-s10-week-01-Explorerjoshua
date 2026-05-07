@@ -1,4 +1,4 @@
-# Week 1: Web Foundations
+# Week 1: Web Foundations.
 
 ## Author
 
