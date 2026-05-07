@@ -4,7 +4,7 @@
 
 * **Name:** Joshua Wandera Oniala
 * **GitHub:** [@Explorerjoshua](https://github.com/Explorerjoshua)
-* **Date:** May 7, 2026
+* **Date:** May 7, 2026.
 
 ---
 
